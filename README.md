@@ -57,3 +57,5 @@ This basic React Native project presents a simple interface with an image and te
     npm run reset-project
     ```
 
+  
+
