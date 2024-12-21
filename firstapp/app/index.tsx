@@ -9,6 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
+      <Image source={require("../assets/images/react-logo.png")} style={styles.logo}></Image>
       <Text>Hello World!</Text>
       <Text>My First React Native cross platform app</Text>
     </View>
