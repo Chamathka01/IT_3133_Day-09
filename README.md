@@ -18,7 +18,7 @@ This basic React Native project presents a simple interface with an image and te
 
 - **JavaScript/TypeScript**: The programming language used for writing the component logic.
 
-- **Expo**: A platform and toolchain for developing React Native apps (assumed from context).
+- **Expo**: A platform and toolchain for developing React Native apps.
 
 - **CSS-in-JS**: For defining styles using the StyleSheet API from React Native.
 
