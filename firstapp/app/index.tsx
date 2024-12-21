@@ -1,4 +1,4 @@
-import { Text, View, Image } from "react-native";
+import { Text, View, Image, StyleSheet } from "react-native";
 
 export default function Index() {
   return (
@@ -15,3 +15,12 @@ export default function Index() {
     </View>
   );
 }
+
+const styles=StyleSheet.create({
+  logo:{
+  width:100,
+  height:100,
+  borderColor:'solid',
+  borderWidth:2
+  }
+})
